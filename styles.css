@@ -14,7 +14,7 @@ body {
     background-image: url('bg.png');
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
 }
 
 /* .container {
@@ -89,7 +89,7 @@ p {
 
 .hero-right {
     flex: 1;
-    color: #1b506e;
+    color: white;
     text-align: center;
     /* Center-aligned text */
     padding-left: 30px;
@@ -149,7 +149,7 @@ p {
 /* Video Section */
 .video-section {
     background-color: #1b506e;
-    padding: 0px 0;
+    padding: 25px 0;
 }
 
 .video-container {
