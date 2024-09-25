@@ -76,6 +76,7 @@ p {
     justify-content: center;
     padding: 50px 20px;
     gap: 30px;
+    background-color: #1b506e;
 }
 
 .hero-left {
@@ -127,9 +128,9 @@ p {
 
 .number-tile {
     flex: 1;
-    background-color: #1b506e;
+    background-color: white;
     /* Match the theme color */
-    color: white;
+    color: #1b506e;
     margin: 10px;
     padding: 30px;
     text-align: center;
@@ -350,7 +351,7 @@ video {
 
 /* Sustainability Section Styles */
 .sustainability-section {
-    background-color: #1b506e;
+    background-color: #33cc33;
     padding: 50px 20px;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -405,11 +406,11 @@ video {
     }
 }
 
-section {
+/* section {
     background-color: #1b506e;
-    /* Matches the provided color */
+    
     padding: 50px 20px;
-}
+} */
 
 /* Clients section specific styling */
 .clients-section {
